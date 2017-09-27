@@ -18,4 +18,6 @@ function sayHiToGrandma(string) {
   var upper = string
   upper.toUpperCase() === upper
   return('YES INDEED!')
+  upper.toLowerCase() === upper
+  return("I can't hear you!")
 }
