@@ -17,5 +17,5 @@ console.log(string.toLowerCase())
 function sayHiToGrandma(string) {
   var upper = string
   upper.toUpperCase() === upper
-  return('YES INDEED')
+  return('YES INDEED!')
 }
